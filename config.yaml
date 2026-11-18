@@ -1,0 +1,7 @@
+# Dunmore Corp Portal Configuration
+# All data is fictional.
+
+audit_log_path: "static/company_audit.jsonl"
+ground_truth_path: "static/company_ground_truth.csv"
+db_path: "portal.db"
+port: 8600

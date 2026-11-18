@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+company_audit.jsonl
+company_ground_truth.csv
+static/
+.DS_Store
+
